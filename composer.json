@@ -1,0 +1,17 @@
+{
+    "name": "chris/composer-test",
+    "description" : "chris jiang test",
+    "authors": [
+        {
+            "name": "chris jiang",
+            "email": "chris.jiang@trustasia.com"
+        }
+    ],
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "Jiang\\":"src/"
+        }
+
+    }
+}
